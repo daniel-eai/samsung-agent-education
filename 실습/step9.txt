@@ -1,15 +1,6 @@
-[교육생 설정]
-- GitHub Pages 주소: https://[username].github.io
-- GitHub 저장소: https://github.com/[username]/[username].github.io.git
-- GitHub 토큰 파일: github_token.txt
-- 프로필 참고 자료: [CV.pdf 또는 없음]
-- 웹사이트 디자인 참고: [없음, 다크 테마, 메트릭스 느낌, 페이스북 등등]
-- 게임 추가 기능: [없음 또는 원하는 기능 - 랜덤하게 움직이는 적]
-
-
 [Step 9 - 변경 요청 재루프]
 
-CHANGE_REQUEST.md, AORR.md, MEMORY.md, 현재 코드와
+MEMORY.md의 `Project Settings`, CHANGE_REQUEST.md, AORR.md, 현재 코드와
 마지막 정상 배포 상태를 읽고 Change Item을 의존성 순서대로 구현해.
 
 역할:

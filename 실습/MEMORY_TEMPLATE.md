@@ -1,5 +1,13 @@
 # MEMORY.md
 
+## Project Settings
+- GitHub Pages URL: https://[username].github.io
+- Repository: https://github.com/[username]/[username].github.io.git
+- Token file: github_token.txt
+- Profile reference: [CV.pdf 또는 없음]
+- Design reference: [없음 또는 원하는 디자인]
+- Game additions: [없음 또는 원하는 기능]
+
 ## Goal
 - GitHub Pages용 반응형 프로페셔널 웹사이트와 Games/지렁이 게임 완성 및 배포
 

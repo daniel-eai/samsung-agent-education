@@ -1,15 +1,6 @@
-[교육생 설정]
-- GitHub Pages 주소: https://[username].github.io
-- GitHub 저장소: https://github.com/[username]/[username].github.io.git
-- GitHub 토큰 파일: github_token.txt
-- 프로필 참고 자료: [CV.pdf 또는 없음]
-- 웹사이트 디자인 참고: [없음, 다크 테마, 메트릭스 느낌, 페이스북 등등]
-- 게임 추가 기능: [없음 또는 원하는 기능 - 랜덤하게 움직이는 적]
-
-
 [Step 2 - AORR 상태 머신 설계]
 
-STEP1_ANALYSIS.md와 저장소 구조를 읽고 실행 가능한 AORR 상태 머신을 설계해.
+MEMORY.md의 `Project Settings`, STEP1_ANALYSIS.md와 저장소 구조를 읽고 실행 가능한 AORR 상태 머신을 설계해.
 
 역할:
 - Codex: 코드 분석과 최소 수정

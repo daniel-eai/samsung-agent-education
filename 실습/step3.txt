@@ -1,15 +1,6 @@
-[교육생 설정]
-- GitHub Pages 주소: https://[username].github.io
-- GitHub 저장소: https://github.com/[username]/[username].github.io.git
-- GitHub 토큰 파일: github_token.txt
-- 프로필 참고 자료: [CV.pdf 또는 없음]
-- 웹사이트 디자인 참고: [없음, 다크 테마, 메트릭스 느낌, 페이스북 등등]
-- 게임 추가 기능: [없음 또는 원하는 기능 - 랜덤하게 움직이는 적]
-
-
 [Step 3 - Self-Correcting TDD 설계]
 
-AORR.md와 저장소 구조를 읽고 Verifier 중심 Self-Correcting TDD 루프를 설계해.
+MEMORY.md의 `Project Settings`, AORR.md와 저장소 구조를 읽고 Verifier 중심 Self-Correcting TDD 루프를 설계해.
 
 기본 모드:
 - Codex = Worker: 코드 분석과 최소 수정
