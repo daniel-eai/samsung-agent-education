@@ -14,7 +14,7 @@ MEMORY.md의 `Project Settings`, AORR.md와 저장소 구조를 읽고 Verifier 
 4. Sonnet 5가 실제 사용 가능하면 사용
 5. 불가능하면 사용 가능한 최신 Sonnet 모델 사용
 6. 실제 모델명을 AORR.md와 MEMORY.md에 기록
-7. Claude 사용 불가 시 CODEX_FALLBACK 모드 사용
+7. Claude 사용 불가 시 CODEX를 계속해서 사용 [사용자에게 확인 받지 않아도됨.]
 
 AORR.md에 `Self-Correcting TDD Loop`를 추가해.
 
