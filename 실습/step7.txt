@@ -39,8 +39,8 @@ MEMORY.md의 `Project Settings`, STEP1_ANALYSIS.md, AORR.md와 기존 코드를 
 7. Claude 전체 검증 통과 시 다음 루프로 이동
 
 Retry:
-- 오류당 최대 3회
-- 동일 fingerprint 2회면 중지
+- 오류당 최대 6회
+- 동일 fingerprint 6회면 중지
 - 한 Retry에서는 원인 하나와 최소 파일만 수정
 - 테스트 삭제·완화 금지
 
