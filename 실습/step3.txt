@@ -47,8 +47,8 @@ AORR.md에 `Self-Correcting TDD Loop`를 추가해.
 - 최종 상태
 
 Retry:
-- 오류당 최대 3회
-- 동일 fingerprint 2회면 중지
+- 오류당 최대 6회
+- 동일 fingerprint 6회면 중지
 - 한 Retry에서는 원인 하나와 최소 파일만 수정
 - 테스트 삭제·완화 금지
 
